@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TresEnRaya:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TresEnRaya_jar</output-path>
+    <root id="archive" name="TresEnRaya.jar">
+      <element id="module-output" name="TresEnRaya" />
+    </root>
+  </artifact>
+</component>
